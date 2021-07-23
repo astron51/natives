@@ -10,7 +10,7 @@ float GET_VEHICLE_PETROL_TANK_HEALTH(Vehicle vehicle);
 
 ```
 1000 is max health  
-Begins leaking gas at around 650 health  
+Most cars begin leaking gas at 688 
 ```
 
 ## Parameters
